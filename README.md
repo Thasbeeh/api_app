@@ -29,9 +29,7 @@ Setup the credentials to connect the database in config/database.yml
 
 ### API documentation (Postman)
 
-```
 https://www.postman.com/flight-physicist-20987209/api-app-test/collection/2ve1du0/api-app?action=share&creator=42445106
-```
 
 ### API Workflow
 
