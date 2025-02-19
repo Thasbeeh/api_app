@@ -27,7 +27,13 @@ cd api_app
 
 Setup the credentials to connect the database in config/database.yml
 
-### Workflow
+### API documentation (Postman)
+
+```
+https://www.postman.com/flight-physicist-20987209/api-app-test/collection/2ve1du0/api-app?action=share&creator=42445106
+```
+
+### API Workflow
 
 By default the rails server will run at port:3000 while running local host.
 
@@ -43,5 +49,3 @@ By default the rails server will run at port:3000 while running local host.
 5. A specific task can be retrived using GET request '/tasks/:id'.
 6. The task can be updated using UPDATE request '/tasks/:id' with payloads to edit the task.
 7. The task can be deleted using DELETE request '/tasks/:id'.
-
-
