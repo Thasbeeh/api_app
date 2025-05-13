@@ -40,7 +40,7 @@ gem 'pry'
 
 # Use for date time validations
 gem 'validates_timeliness', '~> 7.1'
-gem 'timeliness', '~> 0.5.2'
+gem 'timeliness', '~> 0.5.3'
 
 # Use for pagination
 gem 'kaminari'
